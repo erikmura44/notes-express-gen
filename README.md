@@ -1,4 +1,4 @@
-# notes-express-gen
+# Express Gen For Mocha/Chai
 
 - express --hbs --git
 - npm install --save-dev chai
